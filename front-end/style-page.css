@@ -1,0 +1,17 @@
+#react {
+    border: 1px solid rgb(33, 33, 241);
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.1rem;
+    font-style: italic;
+    transition: 1s;
+}
+
+#react img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#react:hover {
+    box-shadow: 0px 0px 20px rgba(58, 23, 255, 0.349);
+}
