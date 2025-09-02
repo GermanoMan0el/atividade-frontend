@@ -1,0 +1,21 @@
+#my-title {
+    color: darkslateblue;
+    font-size: 2rem;
+    text-decoration: overline;
+
+}
+
+#my-list {
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.outher-color {
+    color: rgb(11, 11, 211);
+}
+
+img { 
+    border-radius: 10px;
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.479)
+}
