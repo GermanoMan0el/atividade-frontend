@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#card {
+    background-color: rgb(47, 53, 79);
+    min-width: 500px;
+    border-radius: 5px;
+    box-shadow: 6px 6px 12px #00000081;
+    color: #fff;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
