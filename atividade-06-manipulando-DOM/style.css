@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #000000;
+    min-width: 450px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 4px;
+    box-shadow: 7px 7px black;
+}
+
+#myParagraph {
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#contentForParagraph {
+    padding: 10px;
+    font-size: bold;
+    font-style: italic;
+}
+
+button {
+    padding: 10px;
+    font-size: .9rem;
+    font-size: bold;
+    font-style: italic;
+    cursor: pointer;
+}
