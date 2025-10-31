@@ -1,0 +1,18 @@
+.image_lewis {
+    width: 800px;
+    border-radius: 7px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.image_lewis:hover {
+    box-shadow: 0px 0px 20px #6d0906;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+a {
+    color: white;
+}
